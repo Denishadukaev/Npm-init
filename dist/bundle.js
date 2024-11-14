@@ -1,0 +1,1 @@
+(()=>{class o{constructor(o){this.name=o.name,this.model=o.model,this.year=o.year}}const e=new o({name:"Toyota",model:"Supra",year:1998}),a=new o({name:"Matiz",model:"Yoho",year:1998});console.log(a),console.log(e)})();
